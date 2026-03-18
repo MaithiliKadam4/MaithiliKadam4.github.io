@@ -68,13 +68,13 @@ og_image: /assets/img/social_preview.png # The site-wide (default for all links)
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: dipta007 # your GitHub user name
+github_username: maithilikadam4 # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: iamdipta007 # your Twitter handle
+twitter_username:  # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: dipta007 # your LinkedIn user name
+linkedin_username: maithilikadam # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: j2ElsNIAAAAJ # your Google Scholar ID
+scholar_userid: 1a8f-mYAAAAJ # your Google Scholar ID
 # semanticscholar_id: 50425406 # your Semantic Scholar ID
 # whatsapp_number: +14438893961 # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 # orcid_id: 0000-0002-9176-1782 # your ORCID ID
@@ -105,7 +105,7 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  Best way to contact me is to <a href="mailto:sroydip1@umbc.edu">email</a>. I try te reply each and every email.
+  Best way to contact me is to <a href="mailto:mkadam1@umbc.edu">email</a>. I try te reply each and every email.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -123,10 +123,10 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Shubhashis Roy Dipta Blog # blog_name will be displayed in your blog page
-blog_nav_title: null # your blog must have a title for it to be displayed in the nav bar
-blog_description: Learn with Shubhashis
-permalink: /blog/:year/:title/
+blog_name: # blog_name will be displayed in your blog page
+blog_nav_title:  # your blog must have a title for it to be displayed in the nav bar
+blog_description: 
+permalink: 
 
 # Pagination
 pagination:
@@ -160,8 +160,8 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@dipta007/feed
+  - name: 
+    rss_url: 
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -287,8 +287,8 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Roy Dipta, Dipta, R. Dipta, Roy, R.]
-  first_name: [Shubhashis, Shubhashis Roy, Shubhashis Roy Dipta, Shubhashis R. Dipta, Shubhashis Roy Dipta, Shubhashis R. Dipta, Shubhashis Roy, Shubhashis R.]
+  last_name: [Kadam]
+  first_name: [Maithili, Maithili Sanjay, Maithili S.]
 
   style: apa
   locale: en
@@ -369,7 +369,7 @@ imagemagick:
 # Newsletter
 mailchimp:
   enable: true
-  identifier: roydipta.us21.list-manage.com/subscribe/post?u=d959ff3473bc4ddf834bf8fbe&amp;id=ccd3f0e7a2&amp;f_id=00e9f3e6f0
+  identifier: 
   input__text: Subscribe here
   button__text: Send Me New posts
 
